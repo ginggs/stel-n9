@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=Stellarium N9
+Exec=/usr/bin/invoker --type=e -s /opt/stellarium-n9/bin/stellarium-n9
+Icon=/usr/share/icons/hicolor/80x80/apps/stellarium-n980.png
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable

@@ -1,0 +1,47 @@
+stellarium-n9 (0.3.6) unstable; urgency=low
+  * Fixed translations: now possible to use sky_locale/app_locale in config.ini.
+
+ -- marko <marko@unknown>  Thu, 18 Jul 2013 08:53:35 +0200
+
+stellarium-n9 (0.3.5) unstable; urgency=low
+  * Location editing, saving, gps
+  * Fixed location selection "Wien" bug
+  * Fixed nebula markers, labels
+  * Added HUD/viewing settings, night mode, transparency
+
+ -- marko <marko@unknown>  Mon, 21 Jan 2013 15:01:51 +0100
+
+stellarium-n9 (0.3.4) unstable; urgency=low
+  * cosmetic fixes to compy with OVI store requrements
+
+ -- marko <marko@unknown>  Sun, 30 Dec 2012 15:56:58 +0100
+
+stellarium-n9 (0.3.3) unstable; urgency=low
+  * new filtering algorithm for freelook, no minfps when freelooking
+  * changed default minfps to 30hz
+  * fixed datetime updates and format
+  * new icon
+  * new startup page
+  * skycultures
+  * mount modes
+  * clear selection
+
+
+ -- marko <marko@unknown>  Mon, 17 Dec 2012 19:59:35 +0100
+
+stellarium-n9 (0.3.2) unstable; urgency=low
+  * Fixed swipe/orientation problem
+  * Hopefully fixes some sensor issues that caused "Not responding" at startup
+
+ -- marko <marko@unknown>  Thu, 13 Dec 2012 20:49:17 +0100
+
+stellarium-n9 (0.3.1) unstable; urgency=low
+  * Added landscape, date/time, about pages
+  * optimized text rendering (textFormat: StyledText)
+
+ -- marko <marko@unknown>  Wed, 12 Dec 2012 14:20:29 +0100
+
+stellarium-n9 (0.3.0) unstable; urgency=low
+  * initial version
+
+ -- marko <marko@unknown>  Mon, 10 Dec 2012 21:10:38 +0100

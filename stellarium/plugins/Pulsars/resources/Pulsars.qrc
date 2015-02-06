@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Pulsars">
+        <file>pulsars.json</file>
+        <file>pulsar.png</file>
+    </qresource>
+</RCC>
